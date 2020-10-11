@@ -11,8 +11,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -152,7 +151,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602451980281</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="start">
+      <created>1602452339862</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1602452339862</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -160,24 +166,24 @@
     <option name="LAST_COMMIT_MESSAGE" value="start" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="396" y="0" width="488" height="465" key="#com.intellij.ide.util.MemberChooser" timestamp="1602451040202">
+    <state x="396" y="0" width="488" height="465" key="#com.intellij.ide.util.MemberChooser" timestamp="1602452484870">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
     <state x="317" y="0" width="390" height="446" key="#com.intellij.ide.util.MemberChooser/0.0.1024.728@0.0.1024.728" timestamp="1602450167699" />
-    <state x="396" y="0" width="488" height="465" key="#com.intellij.ide.util.MemberChooser/0.0.1280.760@0.0.1280.760" timestamp="1602451040202" />
-    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1602451973368">
+    <state x="396" y="0" width="488" height="465" key="#com.intellij.ide.util.MemberChooser/0.0.1280.760@0.0.1280.760" timestamp="1602452484870" />
+    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1602452336052">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
     <state x="0" y="0" key="CommitChangelistDialog2/0.0.1280.760/1280.0.1024.728@0.0.1280.760" timestamp="1602440513073" />
-    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1280.760@0.0.1280.760" timestamp="1602451973368" />
+    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1280.760@0.0.1280.760" timestamp="1602452336052" />
     <state x="461" y="317" key="Github.ShareDialog" timestamp="1602440385076">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
     <state x="461" y="317" key="Github.ShareDialog/0.0.1280.760/1280.0.1024.728@0.0.1280.760" timestamp="1602440385076" />
-    <state x="232" y="113" key="Vcs.Push.Dialog.v2" timestamp="1602452015490">
+    <state x="232" y="113" key="Vcs.Push.Dialog.v2" timestamp="1602452361884">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state x="232" y="113" key="Vcs.Push.Dialog.v2/0.0.1280.760@0.0.1280.760" timestamp="1602452015490" />
+    <state x="232" y="113" key="Vcs.Push.Dialog.v2/0.0.1280.760@0.0.1280.760" timestamp="1602452361884" />
     <state x="231" y="56" key="com.intellij.ide.util.TipDialog" timestamp="1602448791040">
       <screen x="0" y="0" width="1024" height="728" />
     </state>
